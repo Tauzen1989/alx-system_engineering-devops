@@ -1,2 +1,2 @@
 #!/bin/bash
-la -apvm
+la -apm | sort -d
